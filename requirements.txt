@@ -3,3 +3,5 @@ ipywidgets
 nbinteract
 matplotlib
 scipy
+warnings
+sys
