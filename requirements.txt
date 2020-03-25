@@ -1,6 +1,5 @@
 numpy
 ipywidgets
 nbinteract
-math
 matplotlib
 scipy.linalg
